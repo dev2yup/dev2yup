@@ -13,7 +13,7 @@
   </br>
 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-   <img alt="github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white" />
   </br> 
   
   [![dev2yup](https://github-readme-stats.vercel.app/api?username=dev2yup&theme=flag-india&hide_border=false&show_icons=true&line_height=20&show_owner=true")](https://github.com/dev2yup/github-readme-stats)

@@ -16,7 +16,7 @@
    <img alt="github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white" />
   </br> 
   
-  [![leedy5521](https://github-readme-stats.vercel.app/api?username=leedy5521&theme=flag-india&hide_border=false&show_icons=true&line_height=20&show_owner=true")](https://github.com/leedy5521/github-readme-stats)
+  [![leedy5521](https://github-readme-stats.vercel.app/api?username=leedy5521&theme=flag-india&hide_border=false&show_icons=true&line_height=20&show_owner=true")](https://github.com/dev2yup/github-readme-stats)
 
 <h3>Contact Me</h3>
 <p>

@@ -2,7 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleedy55210&count_bg=%23C558DD&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <p>
-  <b>안녕하세요 방문해 주셔서 감사합니다. 새교고등학교 이동엽 입니다.</b></br>
+  <b>안녕하세요 방문해 주셔서 감사합니다. 숭실대학교 소프트웨어학부 이동엽 입니다.</b></br>
+  <b>효율적인 알고리즘을 공부하는 것을 좋아하는 예비 개발자입니다.</b>
 </p>
 
  <h3>Tech Skills</h3>

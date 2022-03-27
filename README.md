@@ -20,5 +20,5 @@
 
 <h3>Contact Me</h3>
 <p>
-<a href="mailto:leedy552193@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> &nbsp;
+<a href="mailto:leedy5521@naver.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> &nbsp;
 </p>

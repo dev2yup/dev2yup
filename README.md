@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev2yup0&count_bg=%23C558DD&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <p>
-  <b>안녕하세요 방문해 주셔서 감사합니다.
+  <b>안녕하세요 이동엽입니다. 방문해 주셔서 감사합니다.</b>
 </p>
 
 <!-- <h3>Tech Skills</h3> -->

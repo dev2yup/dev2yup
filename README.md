@@ -21,4 +21,5 @@
 <h3>Contact Me</h3>
 <p>
 <a href="mailto:leedy5521@naver.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/lee_dg_yp?igsh=MXZuZ3VyMTRoM2swOQ%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
